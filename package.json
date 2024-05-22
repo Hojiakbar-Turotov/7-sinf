@@ -1,0 +1,22 @@
+{
+  "name": "7-sinf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hojiakbar-Turotov/7-sinf.git"
+  },
+  "author": "Hojiakbar Turatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hojiakbar-Turotov/7-sinf/issues"
+  },
+  "homepage": "https://github.com/Hojiakbar-Turotov/7-sinf#readme",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
